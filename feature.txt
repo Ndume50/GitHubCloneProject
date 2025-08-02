@@ -1,2 +1,6 @@
+<<<<<<< HEAD
  This is a new feature
+=======
+ This is a new feature
+>>>>>>> 76eeb82907d37d835a4b546fe521b8471af3f5c5
  
